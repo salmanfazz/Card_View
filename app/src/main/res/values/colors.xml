@@ -4,6 +4,6 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="colorGraylight">#F0F0F0</color>
-    <color name="colorStartRed">#B91372</color>
-    <color name="colorEndRed">#6B0F1A</color>
+    <color name="colorStartRed">#D99EC9</color>
+    <color name="colorEndRed">#F6F0C4</color>
 </resources>
